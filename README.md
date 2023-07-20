@@ -1,6 +1,6 @@
 # 42_Berlin
 
-## Percentage Duration of Each Project in the Curriculum
+## Duration of each project in the core curriculum expressed in percentage
 
 | Rank | Percentage | Percentage of Sum | Projects/Exams                          |
 |------|------------|------------------|----------------------------------------|
