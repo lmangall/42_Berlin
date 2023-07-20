@@ -1,5 +1,6 @@
 # 42_Berlin
 
+## Percentage Duration of Each Project in the Curriculum
 
 | Rank | Percentage | Percentage of Sum | Projects/Exams                          |
 |------|------------|------------------|----------------------------------------|
@@ -11,4 +12,4 @@
 |  5   |    27%     |       88%        | webserv or ft_irc + inception or ft_server + exam rank05 |
 |  6   |    13%     |      101%*       | ft_transcendence                        |
 
-Based on Codam Activity Monitoring System presentation
+*Based on Codam Activity Monitoring System presentation.*
